@@ -2,12 +2,13 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://instagram.com/delmo_mania020)]
 
-
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)(https://facebook.com/DeltonAntonioAntonio)]
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/delmo-antonio-93a311236)]
 
 ![Delton Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeltonAntonio&show_icons=true&theme=radical)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DeltonAntonio)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias:
 
@@ -17,4 +18,5 @@
     <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 </div>
+
 
